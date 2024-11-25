@@ -17,7 +17,7 @@
                 width: 27px;
                 position: absolute;
                 transition: all 0.3s ease 0s;
-                background: #000;
+                background: var(--color-violet);
                 transform: translate(-50%, -50%);
                 border-radius: 1px;
                 &:first-child {
